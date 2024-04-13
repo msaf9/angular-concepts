@@ -5,6 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Topics
 
 - Create component without using cli
+- Lifecycle hooks
+    - ngOnInit
+    - ngOnDestory
 
 ## Development server
 
